@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(Roboto-ThinItalic-webfont.eot);
+}
+p{
+    font-style: italic;
+    font-family: 'Verdana';
+    color: #000000;
+}
+
+header{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color:green;
+}
+table{
+    font-family: 'Big Shoulders Text', cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFFAFA;
+}
+form{
+    
+    color: #800000;
+}
+body{
+    font: italic bold 12px/30px Georgia, serif;
+    background: #808000;
+}
+.logo{
+    text-indent: -999999px;
+    background: url('logo.png');
+    width: 300px;
+    height: 400px;
+}
